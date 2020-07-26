@@ -14,9 +14,10 @@
     "canvas-sketch": "^0.7.3",
     "canvas-sketch-util": "^1.10.0",
     "dat.gui": "^0.7.7",
-    "nice-color-palettes": "^3.0.0"
+    "nice-color-palettes": "^3.0.0",
+    "three": "^0.118.3"
   },
   "devDependencies": {
-    "canvas-sketch-cli": "^1.11.7"
+    "canvas-sketch-cli": "^1.11.9"
   }
 }
